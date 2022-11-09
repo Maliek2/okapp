@@ -2,7 +2,7 @@
   <div>
     <div>
       <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-        <router-link class="navbar-brand" to="/">CS-eCommerce</router-link>
+        <router-link class="navbar-brand" to="/">Maliek News</router-link>
         <div class="ml-auto">
           <div v-if="user.photoURL">
             <img
